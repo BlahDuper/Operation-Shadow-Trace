@@ -2,10 +2,12 @@
 
 Blog 1:
 
+Was able to follow the Kalpit Lal Rama chain to the reddit post https://www.reddit.com/user/Virtual-Copy-637/comments/1fuyetj/comment/lq305zv/?context=3 but alas, could not decipher these numbers.
+
 Blog 2:
 
 Challenge 1:
-Grafana Exploit downloaded from exploitdb.com (https://www.exploit-db.com/exploits/50581) which when run, gives access to read the files. Then read the file located in /tmp (/tmp/flag) which gave - "PClub{Easy LFI}, now onto the next one! Next challenge - 13.235.21.137:4657 and 13.235.21.137:4729".
+Grafana Exploit downloaded from exploitdb.com (https://www.exploit-db.com/exploits/50581) which when run, gives access to read the files. Then read the file located in /tmp (/tmp/flag) which gave - "PClub{Easy LFI}, now onto the next one! Next challenge - 13.235.21.137:4657 and 13.235.21.137:4729". (Also before this I was just trying to brute force the crap out of the login page :P)
 
 Flag 1: PClub{Easy LFI}
 
